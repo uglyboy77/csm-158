@@ -57,5 +57,6 @@ int main() {
     cout << "Total Deductions: " << totalDeductions << " cedis" << endl;
     cout << "Net Pay: " << netPay << " cedis" << endl;
     
+
     return 0;
 }
